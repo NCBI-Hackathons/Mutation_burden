@@ -1,6 +1,5 @@
 # Mutation_burden
-Building a pipeline to assess effects of mutation burden
-We will calculate clone-specific mutational burden and determine the potential benefit from immunotherapy treatment
+Building a pipeline to assess effects of mutation burden based on tumor clonality. We will validate the clonality in pre-mixed cancer samples, separate the mutation burden based on segmented CNV calls, calculate clone-specific mutational burden and determine the potential benefit from immunotherapy treatment.
 
 ## Work Flow: 
 1) Preprocessing: FASTQ files->BAM and VCF files
