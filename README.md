@@ -1,20 +1,16 @@
-# Mutation_burden
+## Mutation_burden
 Building a pipeline to assess effects of mutation burden
 We will calculate clone-specific mutational burden and determine the potential benefit from immunotherapy treatment
 
-Work Flow: 
+# Work Flow: 
 1) Preprocessing: FASTQ files->BAM and VCF files
 2) CNV calling: CNV variants 
 3) Mutational burden calculation: SNV calculation per clone of cells (comparison among different tools)
 4) Output: Appropriate for immunotherapy or not, which immunotherapy
 
-https://github.com/NCBI-Hackathons/Mutation_burden/Pipeline.png
-
 Interval BED file for SureSelect Human All Exon V4 H. sapiens (hg19) is downloaded (S03723314). Recommended to use S03723314_AllTracks.bed which is uploaded at /gpfs/commons/projects/ncbi-nygc-hackathon/IntervalFiles.
 
-
-
-Related references:
+# Related references:
 
 CCLE paper:
 http://www.nature.com/nature/journal/v483/n7391/full/nature11003.html#supplementary-information
@@ -22,7 +18,7 @@ http://www.nature.com/nature/journal/v483/n7391/full/nature11003.html#supplement
 Library construction for exam capture sequencing:
 http://www.nature.com/nbt/journal/v27/n2/full/nbt.1523.html
 
-Clonality analysis tools:
+# Clonality analysis tools:
 
 ABSOLUTE
 http://archive.broadinstitute.org/cancer/cga/sites/default/files/data/tools/absolute/ABSOLUTE_1.0.6.tar.gz
@@ -33,7 +29,7 @@ https://cran.r-project.org/web/packages/sequenza/index.html
 FACETS
 https://github.com/mskcc/facets
 
-A list of CNV tools that might be used for variant calling:
+# List of CNV tools that might be used for variant calling:
 
 EXCAVATOR
 https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r120
