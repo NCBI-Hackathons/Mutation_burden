@@ -9,6 +9,8 @@ Building a pipeline to assess effects of mutation burden based on tumor clonalit
 
 Interval BED file for SureSelect Human All Exon V4 H. sapiens (hg19) is downloaded (S03723314). Recommended to use S03723314_AllTracks.bed which is uploaded at /gpfs/commons/projects/ncbi-nygc-hackathon/IntervalFiles.
 
+![alt text](Pipeline.png)
+
 ## Related references:
 
 CCLE paper:
