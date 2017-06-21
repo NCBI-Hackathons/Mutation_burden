@@ -11,6 +11,8 @@ Interval BED file for SureSelect Human All Exon V4 H. sapiens (hg19) is download
 
 ![alt text](Pipeline.png)
 
+![alt text](WorkFlow.png)
+
 ## Related references:
 
 CCLE paper:
