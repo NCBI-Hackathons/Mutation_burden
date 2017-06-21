@@ -8,8 +8,11 @@ Work Flow:
 3) Mutational burden calculation: SNV calculation per clone of cells (comparison among different tools)
 4) Output: Appropriate for immunotherapy or not, which immunotherapy
 
+Mutation_burden/Pipeline.png
 
 Interval BED file for SureSelect Human All Exon V4 H. sapiens (hg19) is downloaded (S03723314). Recommended to use S03723314_AllTracks.bed which is uploaded at /gpfs/commons/projects/ncbi-nygc-hackathon/IntervalFiles.
+
+
 
 Related references:
 
