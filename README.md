@@ -12,6 +12,7 @@ Work Flow:
 Interval BED file for SureSelect Human All Exon V4 H. sapiens (hg19) is downloaded (S03723314). Recommended to use S03723314_AllTracks.bed which is uploaded at /gpfs/commons/projects/ncbi-nygc-hackathon/IntervalFiles.
 
 Related references:
+
 CCLE paper:
 http://www.nature.com/nature/journal/v483/n7391/full/nature11003.html#supplementary-information
 
