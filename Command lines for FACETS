@@ -1,0 +1,5 @@
+## run snppileup
+
+##/YourPathForSNPPILEUP/snp-pileup <VCF file> <Output file>  <Normal BAM>  <Tumor BAM>
+
+echo "/YourPathForSNPPILEUP/snp-pileup <VCF file>  Output.counts.txt /SamplePath/Normal.final.bam /SamplePath/Tumor.final.bam " | qsub -N counts -cwd -l h_vmem=20G
