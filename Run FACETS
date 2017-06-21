@@ -1,0 +1,1 @@
+echo "/YOUR-R-PATH/R/R-3.2.1/bin/Rscript /YOURSCRIPTPATH/run_FACETS.R /OUTPUT.txt 35 25 150 " | qsub -N FACET_test -cwd -l h_vmem=40G -m ae -M YOURNAME@YOUREMAIL.COM
